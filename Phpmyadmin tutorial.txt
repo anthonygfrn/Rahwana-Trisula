@@ -1,0 +1,9 @@
+1. First, enter phpmyadmin on XAMPP. Type in the browser with the address localhost / phpmyadmin so that the display appears as follows.
+
+2. On the "Database" menu, please enter the database name, give the name of a new database "persons", then click "Create".
+
+3. Click import at the top panel of the page.
+
+4. Select 'persons.sql' and 'regis.sql' from c:\xampp\Mulia Project Final htdocs\Mulia Project Final, and click 'Go'
+
+5. Put localhost/Mulia Project Final in your address bar, and the website is live.
